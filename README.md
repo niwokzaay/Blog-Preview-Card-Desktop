@@ -1,6 +1,6 @@
 # Blog-Preview-Card-Desktop
+Your users should be able to: 
 
-Here is a newbie project.
-Its a blog-preview-card that I recreated to look like the original as best possible using only HTML and CSS.
-I have attached almost al of the resources I have used to develop and recreate the project.
-This Challenge by Frontend Mentor. Coded by niwok zaay.
+- See hover and focus states for all interactive elements on the page
+
+- Challenge by Frontend Coded by Niwok Zaay
